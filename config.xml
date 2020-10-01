@@ -1,0 +1,9 @@
+<config>
+    <ClassName>Student</ClassName>
+    <ClassName>Teacher</ClassName>
+</config>
+
+<config>
+    <IncludeInfo>Teacher.c</IncludeInfo>
+    <IncludeInfo>Student.c</IncludeInfo>
+</config>
